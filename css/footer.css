@@ -1,0 +1,28 @@
+footer{
+	background-color: #1abc9c;
+	height: 180px;
+	width: 100%;
+	display:flex;
+	flex-direction: row;
+	justify-content: space-between; 
+}
+.info{
+	padding:20px;
+	font-family: 'Lobster', cursive;
+	font-family: 'Pacifico', cursive;
+	align-self: center;
+}
+.meregi img{
+	height: 40px;
+	width: auto;
+	
+}
+.meregi{
+	align-self: center;
+	padding-right: 20px;
+}
+.meregi img:hover{
+	height: 50px;
+	padding: none;
+	transition: all 0.8s; 
+}

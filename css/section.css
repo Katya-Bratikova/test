@@ -1,0 +1,17 @@
+section{
+	height: 100%;
+	width: auto;
+	flex: 70%;
+	padding:20px;
+	background-color: white;
+}
+article{
+	padding: 20px;
+}
+.news_photo{
+background-color: #aaa;
+height: 400px;
+width: 1000px;
+padding: 20px;
+margin: 2% 0;
+}

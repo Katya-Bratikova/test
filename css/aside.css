@@ -1,0 +1,18 @@
+aside{
+	background-color: #f1f1f1;
+	padding: 20px;
+	flex: 30%;
+}
+.fakeimg{
+	background-color: #aaa;
+	height:300px;
+	width:500px;
+	margin: 1%;
+}
+.photo{
+	background-color: #aaa;
+	height: 450px;
+	width: auto;
+	margin: 1%;
+	padding: 0px;
+}
